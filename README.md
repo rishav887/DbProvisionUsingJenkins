@@ -35,7 +35,7 @@ Project              | tasks
 ## 3. Configure
 ### Source Code Management > Repository URL
 ```
-https://github.com/asiandevs/oradbjenkins.git
+https://github.com/rishav887/DbProvisionUsingJenkins.git
 ```
 
 ### Build Output
